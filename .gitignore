@@ -1,0 +1,7 @@
+models/
+node_modules/
+build/
+out/proyecto/
+out/kit-zona-leonida.zip
+__pycache__/
+*.pyc

@@ -1,0 +1,172 @@
+1
+00:00:00,900 --> 00:00:03,693
+¿GTA 6 corre a sesenta cuadros por segundo?
+
+2
+00:00:03,953 --> 00:00:06,694
+La respuesta corta es no. Pero hay diferencias
+
+3
+00:00:06,694 --> 00:00:08,422
+importantes según tu consola.
+
+4
+00:00:09,372 --> 00:00:11,985
+Rockstar lo confirmó la semana pasada:
+
+5
+00:00:11,985 --> 00:00:15,080
+el objetivo es de treinta cuadros por segundo
+
+6
+00:00:15,080 --> 00:00:17,556
+en PS5, en PS5 Pro y en Xbox Series.
+
+7
+00:00:17,816 --> 00:00:20,265
+No hay un modo rendimiento a sesenta cuadros
+
+8
+00:00:20,265 --> 00:00:22,157
+anunciado, ni para el lanzamiento,
+
+9
+00:00:22,157 --> 00:00:23,548
+ni para un parche futuro.
+
+10
+00:00:24,498 --> 00:00:26,835
+¿Entonces qué gana la PS5 Pro?
+
+11
+00:00:27,095 --> 00:00:29,939
+Según lo publicado, el juego lleva el sello
+
+12
+00:00:29,939 --> 00:00:32,518
+PS5 Pro Enhanced: usa el escalado PSSR,
+
+13
+00:00:32,518 --> 00:00:35,494
+y tiene sombras con trazado de rayos que solo
+
+14
+00:00:35,494 --> 00:00:36,883
+están en esa consola.
+
+15
+00:00:37,143 --> 00:00:39,535
+Se ve mejor, pero sigue a treinta cuadros.
+
+16
+00:00:39,795 --> 00:00:43,714
+La PS5 y la Xbox Series X apuntan a los mismos treinta.
+
+17
+00:00:43,974 --> 00:00:46,668
+Y la Series S también, con ajustes gráficos
+
+18
+00:00:46,668 --> 00:00:47,482
+más modestos.
+
+19
+00:00:48,432 --> 00:00:50,903
+Un dato curioso: según una entrevista que
+
+20
+00:00:50,903 --> 00:00:53,434
+recogieron varios medios, Rockstar llegó a
+
+21
+00:00:53,434 --> 00:00:56,327
+probar una versión a sesenta cuadros en PS5 Pro.
+
+22
+00:00:56,587 --> 00:00:59,076
+El problema: para lograrlo tuvieron que quitar
+
+23
+00:00:59,076 --> 00:01:01,402
+los autos, y buena parte de los personajes.
+
+24
+00:01:01,662 --> 00:01:04,025
+Tómalo con pinzas, pero ayuda a entender por
+
+25
+00:01:04,025 --> 00:01:05,207
+qué eligieron treinta.
+
+26
+00:01:06,157 --> 00:01:07,702
+¿Y las otras plataformas?
+
+27
+00:01:07,962 --> 00:01:09,931
+En PS4 no va a salir.
+
+28
+00:01:10,191 --> 00:01:12,830
+En Xbox One solo se puede jugar por la nube,
+
+29
+00:01:12,830 --> 00:01:15,650
+con Xbox Cloud Gaming, según informó Microsoft.
+
+30
+00:01:15,910 --> 00:01:18,222
+Para Switch 2 no hay nada anunciado.
+
+31
+00:01:18,482 --> 00:01:19,913
+Y para PC, tampoco.
+
+32
+00:01:20,863 --> 00:01:23,343
+Tres ajustes para que los treinta cuadros se
+
+33
+00:01:23,343 --> 00:01:24,132
+sientan mejor.
+
+34
+00:01:24,392 --> 00:01:26,511
+Activa el modo juego de tu televisor,
+
+35
+00:01:26,511 --> 00:01:27,885
+para reducir el retraso.
+
+36
+00:01:28,145 --> 00:01:31,014
+Calibra el HDR desde el menú de la consola.
+
+37
+00:01:31,274 --> 00:01:33,836
+Y apaga el suavizado de movimiento de la tele:
+
+38
+00:01:33,836 --> 00:01:34,894
+en juegos, estorba.
+
+39
+00:01:35,844 --> 00:01:37,420
+¿En qué consola vas a jugar?
+
+40
+00:01:37,420 --> 00:01:38,885
+Déjalo en los comentarios,
+
+41
+00:01:38,885 --> 00:01:40,462
+y suscríbete a Zona Leonida.
+
+42
+00:01:40,722 --> 00:01:42,407
+Y si esperas la versión de PC,
+
+43
+00:01:42,407 --> 00:01:44,092
+el siguiente video es para ti.
+
